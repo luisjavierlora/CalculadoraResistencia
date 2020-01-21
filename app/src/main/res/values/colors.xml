@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e7ff21</color>
+    <color name="colorPrimaryDark">#b1cc00</color>
+    <color name="colorAccent">#ffff63</color>
+
+    <color name="fondo">#efefef</color>
+
+    <color name="resistencia">#D9B576</color>
+
+
+    <color name="negro">#000000</color>
+    <color name="cafe" >#804000</color>
+    <color name="rojo">#FF0000</color>
+    <color name="naranja">#FF8000</color>
+    <color name="amarillo">#FFEB3B</color>
+    <color name="verde">#4CAF50</color>
+    <color name="azul">#03A9F4</color>
+    <color name="violeta">#9C27B0</color>
+    <color name="gris">#A2A0A0</color>
+    <color name="dorado">#D4AF37</color>
+    <color name="plateado">#C0C0C0</color>
+</resources>
